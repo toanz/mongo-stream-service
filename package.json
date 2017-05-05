@@ -1,0 +1,17 @@
+{
+  "name": "mongo-stream-service",
+  "version": "1.0.0",
+  "description": "for make Stream Colection Services are easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Toan Tran",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mongoose": "^4.9.7",
+    "pino": "^4.5.1"
+  }
+}
